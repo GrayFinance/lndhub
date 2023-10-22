@@ -1,3 +1,3 @@
 from setuptools import setup
 
-setup(name="mempool", version="0.1.0", py_modules=["mempool"], install_requires=["requests"])
+setup(name="lndhub", version="0.1.0", py_modules=["lndhub"], install_requires=["requests"])
